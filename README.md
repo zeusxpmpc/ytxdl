@@ -10,8 +10,8 @@
 
 ## SCREENSHOT
 
-[img]https://i.imgur.com/dGtSCXi.jpeg[/img]
-[img]https://i.imgur.com/qXzil6y.jpeg[/img]
+![SCREENSHOT](screenshots/screenshot.5.jpg)
+![SCREENSHOT](screenshots/screenshot.6.jpg)
 
 ## REQUIREMENTS
 
