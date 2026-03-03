@@ -1,13 +1,10 @@
 # YTXDL
 ### Easy GUI for yt-dlp
-### Created for private use. Very usefull for me. No ads fast and simple.
----
 
 ## Features
 
 - Download Video in available qualities like 140p 720p etc.
 - Download Music as mp3 format with Cover
----
 
 ## SCREENSHOT
 
