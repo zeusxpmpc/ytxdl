@@ -10,8 +10,8 @@
 
 ## SCREENSHOT
 
-![SCREENSHOT](screenshots/screenshot.5.jpg)
-![SCREENSHOT](screenshots/screenshot.6.jpg)
+![SCREENSHOT](/screenshots/screenshot.5.jpg)
+![SCREENSHOT](/screenshots/screenshot.6.jpg)
 
 ## REQUIREMENTS
 
