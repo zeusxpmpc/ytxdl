@@ -1,10 +1,10 @@
-#YTXDL
-##Easy GUI for yt-dlp
+# YTXDL
+## Easy GUI for yt-dlp
 ---
 
-#DESCRIPTION
+## DESCRIPTION
 
-Created for private use. Very usefull for me. No ads fast and simple.
+### Created for private use. Very usefull for me. No ads fast and simple.
 ---
 
 ## Features
