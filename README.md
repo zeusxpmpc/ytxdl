@@ -3,6 +3,7 @@
 
 ## Features
 
+- Supports Youtube , SoundCloud and other like yt-dlp
 - Download Video in available qualities like 140p 720p etc.
 - Download Music as mp3 format with Cover
 
