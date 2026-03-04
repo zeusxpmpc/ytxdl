@@ -1,0 +1,6 @@
+THIRD-PARTY LICENSES
+
+--------------------------------------------------------------------------------
+TagLibSharp2 | 2.3.0
+URL: https://github.com/decriptor/TagLibSharp2
+A modern .NET library for reading and writing metadata in media files.
