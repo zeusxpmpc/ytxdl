@@ -14,7 +14,7 @@
 
 ## REQUIREMENTS
 
-- Win 10 >
 - .Net 10
 - TagLibSharp2 (dll)
-- YT-DLP
+- FFmpeg ( system path or program directory)
+- YT-DLP (in Program directory)
